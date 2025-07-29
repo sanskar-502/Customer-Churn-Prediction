@@ -1,0 +1,13 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.layout
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large model files (consider using Git LFS for these)
+*.pkl
+
+# Environment files
+.env
